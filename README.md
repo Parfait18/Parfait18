@@ -10,6 +10,9 @@ I'm a Fullstack Software Engineer and Web Developer with a passion for building 
 * ✉️  You can contact me at [parfaitsv.ahouanto@Gmail.com](mailto:parfaitsv.ahouanto@Gmail.com)
 * 🤝  I'm open to collaborating on on any exciting projects related to full-stack development, open-source software, or innovative web solutions. Feel free to reach out if you have an idea or need assistance with a project!
 
+<a href="https://www.github.com/Parfait18" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Parfait18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
@@ -30,10 +33,4 @@ I'm a Fullstack Software Engineer and Web Developer with a passion for building 
 
 <a href="http://www.github.com/Parfait18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Parfait18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Parfait18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parfait18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Parfait18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parfait18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
