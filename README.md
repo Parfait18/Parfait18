@@ -7,7 +7,7 @@ Fullstack Software Engineer and Web Developer
 I'm a Fullstack Software Engineer and Web Developer with a passion for building scalable and efficient web applications. My expertise spans both frontend and backend technologies, allowing me to create seamless and dynamic user experiences.
 
 * 🌍  I'm based in Cotonou ,Bénin
-* ✉️  You can contact me at [parfaitsv.ahouanto@Gmail.com](mailto:parfaitsv.ahouanto@Gmail.com)
+* ✉️  You can contact me at [parfaitsv.ahouanto@Gmail.com](mailto:parfaitsv.ahouanto@gmail.com)
 * 🤝  I'm open to collaborating on on any exciting projects related to full-stack development, open-source software, or innovative web solutions. Feel free to reach out if you have an idea or need assistance with a project!
 
 <a href="https://www.github.com/Parfait18" target="_blank" rel="noreferrer"><img
